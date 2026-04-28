@@ -1,0 +1,7 @@
+{
+  "your_username": {
+    "user_id": "usr_001",
+    "role": "researcher",
+    "password_hash": "<generate with reset.py>"
+  }
+}
