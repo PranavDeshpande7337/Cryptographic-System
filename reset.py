@@ -2,7 +2,6 @@
 reset.py
 --------
 Utility script to wipe all runtime-generated files and start fresh.
-This is NOT part of the coursework -- it is a development convenience tool.
 
 Deletes:
   - storage/encrypted_data/    all .enc files
@@ -28,7 +27,6 @@ Usage:
 
 import os
 import sys
-import shutil
 import argparse
 
 GREEN  = "\033[92m"
